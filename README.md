@@ -1,7 +1,10 @@
 # DescentRTL
 Traducción de campañas Embers of Dread y Trials of Frostgraven
 
-Tenemos 2 archivos binarios, uno para el que utilice Android y otro para el de Windows
+Tenemos 2 archivos binarios según la version de la aplicación que se utilice:
+
+_data_windows para Windows
+_data_android para Android 
 
 a) Instrucciones de instalación para la versión de Windows
 
