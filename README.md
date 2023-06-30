@@ -23,7 +23,15 @@ b) Instrucciones de instalación para la versión* de Android:
 
 Acceder al siguiente directorio:
 
+![IMG_20230630_222355_115](https://github.com/kelmys/DescentRTL/assets/3743722/6d156c02-5890-46fb-be4f-29e720857e43)
 
+Pegais el archivo descargado del repositorio "_data_android"
+
+Renombrais el _data a _data_bck (para tener copia de seguridad).
+
+Y renombrais el _data_android a _data
+
+Con eso ya está instalado.
 
 *Según la versión de Android que se disponga hay que hacer un paso previo, porque antes de Android 10 se podia acceder directamente al directorio en el que se debe instalar el archivo.
 
