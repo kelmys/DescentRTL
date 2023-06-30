@@ -38,6 +38,6 @@ Con eso ya está instalado.
 
 *Según la versión de Android que se disponga hay que hacer un paso previo, porque antes de Android 10 se podia acceder directamente al directorio en el que se debe instalar el archivo.
 
-Pero a partir de Android 10, el acceso al directorio android\data no es directo, aunque se puede hacer sin hacer root ni modificación, simplemente instalar cualquier app de exploración de archivos. 
+Pero a partir de Android 10, el acceso al directorio /Android/data no es directo, aunque se puede hacer sin hacer root ni modificación, simplemente instalar cualquier app de exploración de archivos. 
 
 Buscar en youtube "android acceso directorio data" y encontraréis muchos tutoriales.
