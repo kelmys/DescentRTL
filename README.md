@@ -18,3 +18,15 @@ Renombrais el _data a _data_bck (para tener copia de seguridad).
 Y renombrais el _data_windows a _data
 
 Con eso ya está instalado.
+
+b) Instrucciones de instalación para la versión* de Android:
+
+Acceder al siguiente directorio:
+
+
+
+*Según la versión de Android que se disponga hay que hacer un paso previo, porque antes de Android 10 se podia acceder directamente al directorio en el que se debe instalar el archivo.
+
+Pero a partir de Android 10, el acceso al directorio android\data no es directo, aunque se puede hacer sin hacer root ni modificación, simplemente instalar cualquier app de exploración de archivos. 
+
+Buscar en youtube "android acceso directorio data" y encontraréis muchos tutoriales.
