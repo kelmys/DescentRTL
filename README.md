@@ -41,3 +41,5 @@ Con eso ya está instalado.
 Pero a partir de Android 10, el acceso al directorio /Android/data no es directo, aunque se puede hacer sin hacer root ni modificación, simplemente instalar cualquier app de exploración de archivos. 
 
 Buscar en youtube "android acceso directorio data" y encontraréis muchos tutoriales.
+
+Agradecimientos a Vidimus y Familialara, por la ayuda en la revisiode la traducción.
