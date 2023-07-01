@@ -1,6 +1,9 @@
 # DescentRTL
 Traducción de campañas Embers of Dread y Trials of Frostgraven
 
+![IMG_20230701_102630](https://github.com/kelmys/DescentRTL/assets/3743722/4fcb5c76-41ee-485a-9044-68985237ee4d)
+
+
 Tenemos 2 archivos binarios según la version de la aplicación que se utilice:
 
 _data_windows para Windows
@@ -42,4 +45,4 @@ Pero a partir de Android 10, el acceso al directorio /Android/data no es directo
 
 Buscar en youtube "android acceso directorio data" y encontraréis muchos tutoriales.
 
-Agradecimientos a Vidimus y Familialara, por la ayuda en la revisiode la traducción.
+Agradecimientos a Vidimus y Familialara, por la ayuda en la revisión de la traducción.
