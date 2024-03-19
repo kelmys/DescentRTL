@@ -23,6 +23,12 @@ Renombrais el _data a _data_bck (para tener copia de seguridad).
 
 Y renombrais el _data_windows a _data
 
+Recientemente se ha detectado que la cache se borra, para poder evitar eso, acceder al directorio 
+
+C:\Users\<vuestro usuario>\AppData\LocalLow\Unity\WebPlayer\Cache
+
+Y en las propiedades de la carpeta "com_fantasyflightgames_Road To Legend" ponerla en modo lectura, así evitaremos que al iniciar Steam borre la carpeta de cache y por consiguiente el fichero que anteriormente hemos copiado.
+
 Con eso ya está instalado.
 
 b) Instrucciones de instalación para la versión* de Android:
