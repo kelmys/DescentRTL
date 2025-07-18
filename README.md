@@ -23,6 +23,12 @@ Renombrais el _data a _data_bck (para tener copia de seguridad).
 
 Y renombrais el _data_windows a _data
 
+Es posible que el directorio haya cambiado, por lo que tenéis que hacer esos mismos pasos pero en la nueva ruta:
+
+C:\Users\XXXXXX\AppData\LocalLow\Unity\Fantasy Flight Games_Road to Legend\main\d586027cab5271ac4db3c7671472e478
+
+Donde XXXXXXX es tu usuario de windows.
+
 Recientemente se ha detectado que la cache se borra, para poder evitar eso, acceder al directorio 
 
 C:\Users\<vuestro usuario>\AppData\LocalLow\Unity\WebPlayer\Cache
